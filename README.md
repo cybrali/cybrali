@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybrali
-- 👀 I’m interested in the CLoud, AWS, Linux, and Networking
+- 👀 I’m interested in the Cloud, AWS, Linux, and Networking
 - 🌱 I’m currently learning Python and taking my AWS Cloud Practitioner course!
 - 💞️ I’m looking to collaborate on anything free and open source.
 - 📫 How to reach me: Twitter - @cybrali
